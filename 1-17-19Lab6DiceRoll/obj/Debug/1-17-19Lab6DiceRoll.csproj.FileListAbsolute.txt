@@ -1,0 +1,6 @@
+c:\users\jc\documents\visual studio 2017\Projects\1-17-19Lab6DiceRoll\1-17-19Lab6DiceRoll\bin\Debug\1-17-19Lab6DiceRoll.exe.config
+c:\users\jc\documents\visual studio 2017\Projects\1-17-19Lab6DiceRoll\1-17-19Lab6DiceRoll\bin\Debug\1-17-19Lab6DiceRoll.exe
+c:\users\jc\documents\visual studio 2017\Projects\1-17-19Lab6DiceRoll\1-17-19Lab6DiceRoll\bin\Debug\1-17-19Lab6DiceRoll.pdb
+c:\users\jc\documents\visual studio 2017\Projects\1-17-19Lab6DiceRoll\1-17-19Lab6DiceRoll\obj\Debug\1-17-19Lab6DiceRoll.csprojResolveAssemblyReference.cache
+c:\users\jc\documents\visual studio 2017\Projects\1-17-19Lab6DiceRoll\1-17-19Lab6DiceRoll\obj\Debug\1-17-19Lab6DiceRoll.exe
+c:\users\jc\documents\visual studio 2017\Projects\1-17-19Lab6DiceRoll\1-17-19Lab6DiceRoll\obj\Debug\1-17-19Lab6DiceRoll.pdb
